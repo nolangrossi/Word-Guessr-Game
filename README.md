@@ -8,11 +8,7 @@ A fun and interactive word-guessing game built with a MERN (MongoDB, Express, Re
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup and Installation](#setup-and-installation)
-- [Running the Application](#running-the-application)
-- [Testing](#testing)
-- [Deployment](#deployment)
-- [Environment Variables](#environment-variables)
+- [Usage](#usage)
 - [License](#license)
 
 ---
