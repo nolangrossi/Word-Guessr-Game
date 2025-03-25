@@ -1,0 +1,16 @@
+
+name: PR Checks
+
+on:
+  pull_request:
+    branches:
+      - develop
+
+jobs:
+  pr-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Ensure PR to develop branch
+        run: echo "Pull request is targeting develop branch."
